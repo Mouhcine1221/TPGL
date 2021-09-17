@@ -69,5 +69,7 @@ public class Orange {
 	System.out.println(or1.toString());
 
 	System.out.println(or1.getPrix());
+
+	System.out.println(or1.getOrigine());
    }
 }
